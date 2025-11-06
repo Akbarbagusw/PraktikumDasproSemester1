@@ -9,7 +9,6 @@ public class Square2 {
             for (int i = 1; i<=n; i++) {
             System.out.print("*");
             }
-            System.out.println();
         }
     }
 }
