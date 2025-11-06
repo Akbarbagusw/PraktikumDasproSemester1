@@ -4,7 +4,7 @@ public class Triangle2 {
         Scanner sc = new Scanner(System.in);
         System.out.print("Masukka nilai n = ");
         int n = sc.nextInt();
-        int i = 0;
+        int i = 1;
         
         while (i <= n){
             int j = 0;
@@ -12,6 +12,7 @@ public class Triangle2 {
                 System.out.print("*");
                 j++;
             }
+            System.out.println();
             i++;
         }
     }
