@@ -11,7 +11,7 @@ public class Kafe2 {
         System.out.println("Silahkan pilih menu yang Anda inginkan.");
         }
         
-        public static void main(String[] args) {
-            Menu();
-        }
+    public static void main(String[] args) {
+        Menu();
+    }
 }
